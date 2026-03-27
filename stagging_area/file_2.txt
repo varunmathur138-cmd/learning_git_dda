@@ -1,0 +1,6 @@
+Key Concepts
+Intermediate Step: The staging area sits between your working directory (where you make and edit files) and your local repository (where committed history is stored).
+Selective Commits: You can stage specific files, or even specific parts of files (called "hunks"), allowing you to break down large changes into smaller, focused commits.
+Snapshot Preparation: When you run git add <file>, you are taking a snapshot of that file's current state in your working directory and placing it in the staging area. The git commit command then takes all the changes currently in the staging area and permanently saves them as a new commit in the repository.
+Review Mechanism: The staging area allows you to use commands like git status and git diff --staged to review what changes are prepared for the next commit, helping you to "check off" changes as you review them. 
+Stack Overflow

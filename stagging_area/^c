@@ -1,0 +1,6 @@
+Core Commands
+You use specific Git commands to interact with the staging area: 
+git status: Shows the current state of files, indicating which ones are modified, staged, or untracked.
+git add <file>: Stages a specific file or git add . to stage all changes in the current directory, copying the current version of the file from the working directory to the staging area.
+git commit: Takes the staged changes and saves them as a permanent snapshot (a commit) in your local repository.
+git restore --staged <file> or git reset <file>: Unstages a file, moving it back to the working directory without deleting your changes. 

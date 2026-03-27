@@ -1,0 +1,1 @@
+In Git, the "commit area" generally refers to the staging area (or "index"), which is where you prepare changes before recording them permanently as a snapshot in your local repository. The act of "committing" takes these staged changes and saves them in the repository's history. 

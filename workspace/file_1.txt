@@ -1,0 +1,2 @@
+GitHub workspace" generally refers to either GitHub Codespaces (a cloud development environment) or GitHub Copilot Workspace (an experimental AI-native environment), as a standalone product named "GitHub Workspace" does not exist. The term may also refer to the directory where code is checked out during a GitHub Actions workflow. 
+

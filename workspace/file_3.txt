@@ -1,0 +1,1 @@
+Git workspace usage involves managing the local project files (the working directory) in conjunction with Git's version control system, as well as leveraging advanced features like Git worktrees for parallel development or utilizing third-party tools that manage multiple repositories. 

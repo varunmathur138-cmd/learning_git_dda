@@ -1,0 +1,10 @@
+Git manages file changes across three main areas: 
+Git
+Git
+ +2
+Working Directory: This is your local project folder where you actively edit, add, and delete files. Changes here are considered "modified" but not yet tracked for the next commit.
+Staging Area (Index): This intermediate area acts as a "draft board" where you selectively choose which changes from your working directory you want to include in the next commit. This allows you to break down large changes into smaller, logical commits.
+Local Repository: This is where Git permanently stores the history of your project in the form of commits, which are like snapshots of your project at specific points in time. 
+GitHub
+GitHub
+ +4

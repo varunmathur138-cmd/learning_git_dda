@@ -1,0 +1,10 @@
+Key Commands
+Here are the main commands related to the commit process:
+git add <file>: This command adds changes from your working directory to the staging area. You can use git add . to stage all changes in the current directory.
+git status: Use this command to see the current state of your files, indicating which ones are modified, staged, or untracked.
+git commit -m "message": This command takes the files exactly as they are in the staging area and records a new commit (snapshot) in the local repository. The -m flag lets you include a descriptive message inline.
+git commit -a -m "message": For tracked files that have been modified or deleted, this command automatically stages them and commits in a single step, bypassing the explicit git add step. 
+Git
+Git
+ +5
+By using the staging area and the git commit command, you maintain fine-grained control over your project's history, enabling a clear and organized record of changes. 
